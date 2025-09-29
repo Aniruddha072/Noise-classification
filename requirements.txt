@@ -1,0 +1,15 @@
+numpy>=1.22
+pandas>=1.4
+librosa>=0.10.0
+scikit-learn>=1.1
+matplotlib>=3.6
+seaborn>=0.12
+tensorflow>=2.12
+torch>=2.0
+torchaudio>=2.0
+umap-learn
+openl3
+tqdm
+audiomentations
+wget
+panns-inference
